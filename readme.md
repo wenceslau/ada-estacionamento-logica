@@ -16,7 +16,7 @@ Projeto de estacionamento para a disciplina de Laboratório de Programação.
 ---
 ## Enunciado
 
-### $${\color{red}Requisitos funcionais}$$
+### $${\color{red} Requisitos}$$
 Criação de um sistema de estacionamento para controlar veículos em um estacionamento. 
 
 O sistema deve ser capaz de:
@@ -28,7 +28,7 @@ O sistema deve ser capaz de:
 - Calcular o valor a ser pago pelo cliente
 - Exibir um relatório com as informações de todos os veículos que passaram pelo estacionamento
 
-### $${\color{red}Regras de negócio}$$
+### $${\color{red}Regras}$$
 
 > **RN1** - O estacionamento possui um limite de vagas que deve ser informado no momento da inicialização.
 
@@ -75,7 +75,7 @@ o sistema deve exibir um relatório com os veículos que estão no estacionament
   > 
   > Placa BBB-1234 - tempo permanência: X minutos - valor cobrado: X.XX
 
-### $${\color{red}Estrutura do projeto}$$
+### $${\color{red}Estrutura}$$
 
 O projeto deve ser construído em Java em uma única classe e métodos estáticos.  
 O sistema deve exibir um menu com as opções:
@@ -93,8 +93,8 @@ O projeto deve ser entregue via LMS em um arquivo compactado com o nome do aluno
 
 ### $${\color{red}Demonstração}$$
 
-![img.png](img.png)
+![img.png](images/img.png)
 
-![img_1.png](img_1.png)1
+![img_1.png](images/img_1.png)1
 
-![img_2.png](img_2.png)
+![img_2.png](images/img_2.png)
