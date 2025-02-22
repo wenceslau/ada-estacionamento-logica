@@ -16,7 +16,7 @@ Projeto de estacionamento para a disciplina de Laboratório de Programação.
 ---
 ## Enunciado
 
-### $${\color{red} Requisitos}$$
+### Requisitos
 Criação de um sistema de estacionamento para controlar veículos em um estacionamento. 
 
 O sistema deve ser capaz de:
@@ -28,7 +28,7 @@ O sistema deve ser capaz de:
 - Calcular o valor a ser pago pelo cliente
 - Exibir um relatório com as informações de todos os veículos que passaram pelo estacionamento
 
-### $${\color{red}Regras}$$
+### Regras de Negócio
 
 > **RN1** - O estacionamento possui um limite de vagas que deve ser informado no momento da inicialização.
 
@@ -45,7 +45,7 @@ O sistema deve ser capaz de:
 > - Exemplo 2: 1h e 59 minutos = R% 5,00 (1 horas) + R$ 6,00 (59 minuto) = R$ 11,00
 > - Exemplo 3: 2h e 1 minuto = R$ 5,00 (1 hora) + R$ 6,00 (1 hora) + R$ 6,00 (1 minuto) = R$ 17,00
              
-### $${\color{red}Comportamento}$$
+### Comportamento
 
 - O sistema deve ser capaz de identificar se o estacionamento está lotado
 
@@ -75,7 +75,7 @@ o sistema deve exibir um relatório com os veículos que estão no estacionament
   > 
   > Placa BBB-1234 - tempo permanência: X minutos - valor cobrado: X.XX
 
-### $${\color{red}Estrutura}$$
+### Estrutura do Projeto
 
 O projeto deve ser construído em Java em uma única classe e métodos estáticos.  
 O sistema deve exibir um menu com as opções:
@@ -88,10 +88,10 @@ Para a entrada de dados o sistema deve usar a classe **Scanner**.
 Para controlar de tempo o sistema deve usar a **API java.time do Java**.  
 Para o cálculo de valor a ser pago pode se usar a **API java.math do Java**, ou fazer o cálculo manualmente.
 
-### $${\color{red}Entrega}$$
+### Entrega
 O projeto deve ser entregue via LMS em um arquivo compactado com o nome do aluno.
 
-### $${\color{red}Demonstração}$$
+### Demonstração
 
 ![img.png](images/img.png)
 
