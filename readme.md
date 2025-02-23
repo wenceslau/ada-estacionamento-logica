@@ -17,7 +17,7 @@ Projeto de estacionamento para a disciplina de Laboratório de Programação.
 ## Enunciado
 
 ### Requisitos
-Criação de um sistema de estacionamento para controlar veículos em um estacionamento. 
+Criação de um sistema para controlar veículos em um estacionamento. 
 
 O sistema deve ser capaz de:
 
